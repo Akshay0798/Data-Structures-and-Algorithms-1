@@ -7,10 +7,16 @@
       <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary Search 2D/Binary Search 2D.iml" filepath="$PROJECT_DIR$/Binary Search 2D/Binary Search 2D.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" filepath="$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Circuler Linked List/Circuler Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Circuler Linked List/Circuler Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Doubly Linked List/Doubly Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Doubly Linked List/Doubly Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Insertion Sort/Insertion Sort.iml" filepath="$PROJECT_DIR$/Insertion Sort/Insertion Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linear Data Structures and Algorithms.iml" filepath="$PROJECT_DIR$/Linear Data Structures and Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/Linear Search/Linear Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Linked List Questions/Linked List Questions.iml" filepath="$PROJECT_DIR$/Linked List/Linked List Questions/Linked List Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Selection Sort/Selection Sort.iml" filepath="$PROJECT_DIR$/Selection Sort/Selection Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String and StringBuilder/String and StringBuilder.iml" filepath="$PROJECT_DIR$/String and StringBuilder/String and StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuffer/StringBuffer.iml" filepath="$PROJECT_DIR$/StringBuffer/StringBuffer.iml" />
     </modules>
   </component>
 </project>
