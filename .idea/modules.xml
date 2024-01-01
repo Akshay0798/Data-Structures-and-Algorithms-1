@@ -4,11 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigInteger and BigDecimal/BigInteger and BigDecimal.iml" filepath="$PROJECT_DIR$/BigInteger and BigDecimal/BigInteger and BigDecimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary Search 2D/Binary Search 2D.iml" filepath="$PROJECT_DIR$/Binary Search 2D/Binary Search 2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bitwise Operator and DSA Math/Bitwise Operator and DSA Math.iml" filepath="$PROJECT_DIR$/Bitwise Operator and DSA Math/Bitwise Operator and DSA Math.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" filepath="$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked List/Circuler Linked List/Circuler Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Circuler Linked List/Circuler Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked List/Doubly Linked List/Doubly Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Doubly Linked List/Doubly Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handeling/Exception Handeling.iml" filepath="$PROJECT_DIR$/Exception Handeling/Exception Handeling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
       <module fileurl="file://$PROJECT_DIR$/Insertion Sort/Insertion Sort.iml" filepath="$PROJECT_DIR$/Insertion Sort/Insertion Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linear Data Structures and Algorithms.iml" filepath="$PROJECT_DIR$/Linear Data Structures and Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/Linear Search/Linear Search.iml" />

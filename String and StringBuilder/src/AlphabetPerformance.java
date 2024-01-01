@@ -9,7 +9,7 @@ public class AlphabetPerformance {
         System.out.println("Concatenated Alphabet using String: " + concatenatedAlphabet);
 
         // Part 2: Building a string using StringBuilder - mutable.
-        // it can modify the same object without creating new ones in each iteration.
+        // It can modify the same object without creating new ones in each iteration.
         // This results in better performance compared to string concatenation
         StringBuilder stringBuilderAlphabet = new StringBuilder();
         for (int i = 0; i < 26; i++) {
