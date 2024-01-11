@@ -3,42 +3,48 @@ import java.util.Scanner;
 public class Questions {
 
     public static void main(String[] args) {
-//        Scanner in = new Scanner(System.in);
-//        int n = in.nextInt();
-
-        // Print 1 to 1000 Armstrong number
-
-        for (int i = 0; i < 1000; i++) {
-            if (IsArmstrong(i)){
-                System.out.print(i + " ");
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        /* number is Prime or not */
+//        System.out.println(IsPrime(n));
+        System.out.println(isPrime(11));
+        
+        /* number is ArmStrong or not */
+//        System.out.println(IsArmstrong(n));
+        
+        /*print armStrong No 1 to 1000*/
+//        PrintArmStrong(1000);
+    }
+    static boolean IsPrime(int n){
+        if ( n<=1){
+            return false;
+        }
+        int c=2;
+        while (c*c<=n){
+            if (n % c==0){
+                return false;
+            }
+            c++;
+        }
+        if (c * c >n){
+            return true;
+        }
+        return false;
+    }
+    static boolean isPrime(int n) {
+        if (n <= 1) {
+            return false;
+        }
+        for (int i = 2; i <= Math.sqrt(n); i++) {
+//        for (int i = 2; i * i <= n; i++) {
+            if (n % i == 0) {
+                return false;
             }
         }
-
-
-//        System.out.println(IsPrime(n));
-//
-//    }
-//    static boolean IsPrime(int n){
-//        if ( n<=1){
-//            return false;
-//        }
-//        int c=2;
-//        while (c*c<=n){
-//            if (n % c==0){
-//                return false;
-//            }
-//            c++;
-//        }
-//        if (c *c >n){
-//            return true;
-//        }
-//        return false;
-//__________________________________________________________________________
-
-        //print all 3 digit armstrong number
-       // System.out.println(IsArmstrong(n));
-
+        return true;
     }
+    
+    
     static boolean IsArmstrong(int n){
         int original_value = n;
 
@@ -54,7 +60,14 @@ public class Questions {
         }
         return false;
     }
-          //return sum == original_value; (shortcut)
+    
+    static void PrintArmStrong(int n){
+        for (int i = 0; i < 1000; i++) {
+            if (IsArmstrong(i)){
+                System.out.print(i + " ");
+            }
+        }
+    }
 }
 
 

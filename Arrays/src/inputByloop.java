@@ -17,6 +17,10 @@ public class inputByloop {
             arr[i] = sc.nextInt(); //takes input from user and store in arr[i](store in i)
             //System.out.println(arr[i]); //its will give output only 5 bcoz we gave size only 5
         }
+        
+        for (int i = 0; i < arr.length; i++) {
+            System.out.println(arr[i] + " ");
+        }
 
         for (int num : arr) { //every element(own number not indices) of an array print the element
             System.out.println(num + " ");  //here num represent an element of the array

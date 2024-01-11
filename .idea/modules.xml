@@ -5,12 +5,16 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion2/Basic Recursion Que/Basic Recursion Que.iml" filepath="$PROJECT_DIR$/Recursion2/Basic Recursion Que/Basic Recursion Que.iml" />
       <module fileurl="file://$PROJECT_DIR$/BigInteger and BigDecimal/BigInteger and BigDecimal.iml" filepath="$PROJECT_DIR$/BigInteger and BigDecimal/BigInteger and BigDecimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary Search 2D/Binary Search 2D.iml" filepath="$PROJECT_DIR$/Binary Search 2D/Binary Search 2D.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bitwise Operator and DSA Math/Bitwise Operator and DSA Math.iml" filepath="$PROJECT_DIR$/Bitwise Operator and DSA Math/Bitwise Operator and DSA Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bitwise Operator and DSA Maths/Bitwise Operator and DSA Maths.iml" filepath="$PROJECT_DIR$/Bitwise Operator and DSA Maths/Bitwise Operator and DSA Maths.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" filepath="$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked List/Circuler Linked List/Circuler Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Circuler Linked List/Circuler Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Count Sort/Count Sort.iml" filepath="$PROJECT_DIR$/Count Sort/Count Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cyclic Sort/Cyclic Sort.iml" filepath="$PROJECT_DIR$/Cyclic Sort/Cyclic Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked List/Doubly Linked List/Doubly Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Doubly Linked List/Doubly Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Handeling/Exception Handeling.iml" filepath="$PROJECT_DIR$/Exception Handeling/Exception Handeling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
@@ -19,9 +23,19 @@
       <module fileurl="file://$PROJECT_DIR$/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/Linear Search/Linear Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked List/Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked List/Linked List Questions/Linked List Questions.iml" filepath="$PROJECT_DIR$/Linked List/Linked List Questions/Linked List Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge Sort/Merge Sort.iml" filepath="$PROJECT_DIR$/Merge Sort/Merge Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion2/Permutation/Permutation.iml" filepath="$PROJECT_DIR$/Recursion2/Permutation/Permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quick Sort/Quick Sort.iml" filepath="$PROJECT_DIR$/Quick Sort/Quick Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion2/Recursion Array/Recursion Array.iml" filepath="$PROJECT_DIR$/Recursion2/Recursion Array/Recursion Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion2/Recursion2.iml" filepath="$PROJECT_DIR$/Recursion2/Recursion2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Redix Sort/Redix Sort.iml" filepath="$PROJECT_DIR$/Redix Sort/Redix Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Selection Sort/Selection Sort.iml" filepath="$PROJECT_DIR$/Selection Sort/Selection Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion2/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Recursion2/Sorting/Sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/String and StringBuilder/String and StringBuilder.iml" filepath="$PROJECT_DIR$/String and StringBuilder/String and StringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringBuffer/StringBuffer.iml" filepath="$PROJECT_DIR$/StringBuffer/StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion2/Subset and String/Subset and String.iml" filepath="$PROJECT_DIR$/Recursion2/Subset and String/Subset and String.iml" />
     </modules>
   </component>
 </project>

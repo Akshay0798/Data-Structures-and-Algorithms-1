@@ -5,8 +5,6 @@ public class Main {
         int []arr={3,4,5,2,1};
         bubble(arr);
         System.out.println(Arrays.toString(arr));
-
-
     }
     static void bubble(int[] arr){
         boolean swap;

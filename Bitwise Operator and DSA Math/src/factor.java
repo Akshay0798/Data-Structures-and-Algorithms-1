@@ -13,7 +13,6 @@ public class factor {
                 System.out.print(i + " ");
             }
         }
-        System.out.println();
     }
 
     static void factor2(int n){

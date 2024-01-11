@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class Recurtion2 {
+public class Recursion2 {
     public static void main(String[] args) {
         // Tower of Hanoi
         int n = 3;

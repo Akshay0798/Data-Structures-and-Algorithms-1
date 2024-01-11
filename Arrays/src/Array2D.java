@@ -11,12 +11,12 @@ public class Array2D {
             7 8 9
        */
         //2d arrays show like [][]
-        //int[][] arr = new int[3][3];     //column is not necessary
+        //int[][] arr = new int[3][3]; //column is not necessary
 
 //        int[][]arre = {
 //                {4 ,5 ,6},  //0th index
-//                {1 ,2 ,3},   //1st index
-//                {7 ,8 ,9, 7}    //2nd index
+//                {1 ,2 ,3}, //1st index
+//                {7 ,8 ,9, 7} //2nd index
 //                };
 //        System.out.println(Arrays.toString(arre[2])); //output-->[7 ,8 ,9 ,7]
 

@@ -1,4 +1,4 @@
-public class RecursionOne {
+public class Recursion1 {
     public static void main(String[] args) {
         // Print numbers from 5 to 1 using recursion
         int n = 5;

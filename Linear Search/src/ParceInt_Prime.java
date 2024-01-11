@@ -4,15 +4,17 @@ import java.util.Scanner;
 public class ParceInt_Prime {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-//        int n=Integer.parseInt(sc.nextLine()); //if we have to take int and string in the same program.
-//        String name=sc.nextLine();
-//
-//        System.out.println("Dear " + name + " your counting start from 1 to");
-//        for (int i = 1; i <=n ; i++) {
-//            System.out.println(i);
-//
-//        }
+/*
+        int n=Integer.parseInt(sc.nextLine()); //if we have to take int and string in the same program.
+        String name=sc.nextLine();
 
+        System.out.println("Dear " + name + " your counting start from 1 to");
+        for (int i = 1; i <=n ; i++) {
+            System.out.println(i);
+
+        }
+*/
+        
         System.out.print("Enter a number: ");
         int number = sc.nextInt();
 

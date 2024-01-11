@@ -11,13 +11,13 @@ public class mainEx {
     OR directly
         int[] rollNo = {10,20,30,40,50};
 
-        int[] rollNo; //declaration of array. rollNo is getting defined in the stack
-        rollNo = new int[5]; //initialisation. actually it object is being created in the memory(heap memory)
+        int[] rollNo; //declaration of an array.rollNo is getting defined in the stack
+        rollNo = new int[5]; //initialisation. Actually it object is being created in the memory(heap memory)
         System.out.println(rollNo[2]);
         String[] arr=new String[10];
         System.out.println(arr[8]);
         int[]arre=new int[5];
-        arre[0]=10;  //what element at the zero index
+        arre[0]=10; //what element at the zero index
         arre[1]=13;
         arre[3]=18;
         arre[2]=15;
@@ -40,8 +40,8 @@ public class mainEx {
 //        }
 
 //        3rd way
-        for (int num : arr){ //every element(own number not indices) of array print the element
-            System.out.println(num + " ");  //here num represent element of the array
+        for (int num : arr){ //every element (own number not indices) of an array print the element
+            System.out.println(num + " ");  //here num represent an element of the array
         }
 
     }

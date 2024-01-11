@@ -3,10 +3,7 @@ public class SearchInString {
         String name = "Suppu";
         char target = 'p';
         System.out.println(search(name , target)); //first one
-
-
     }
-
     static boolean search(String str, char target) {
         if (str.length() == 0) { //str.length()--its a function or method
             return false;
