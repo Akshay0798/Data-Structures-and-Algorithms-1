@@ -8,44 +8,36 @@ public class AllPathMazeBacktracking {
         };
         findAndPrintAllPaths("", maze, 0, 0); // Starting from (0, 0)
     }
-
     static void findAndPrintAllPaths(String currentPath, boolean[][] maze, int row, int column) {
         // Check if we reached the bottom-right corner
         if (row == maze.length - 1 && column == maze[0].length - 1) {
             System.out.println(currentPath);
             return;
         }
-
         // Check if the current cell is blocked
         if (!maze[row][column]) {
             return;
         }
-
         // Mark the current cell as visited
         maze[row][column] = false;
 
         // Explore paths in all four directions
-
         // Down
         if (row < maze.length - 1) {
             findAndPrintAllPaths(currentPath + 'D', maze, row + 1, column);
         }
-
         // Right
         if (column < maze[0].length - 1) {
             findAndPrintAllPaths(currentPath + 'R', maze, row, column + 1);
         }
-
         // Up
         if (row > 0) {
             findAndPrintAllPaths(currentPath + 'U', maze, row - 1, column);
         }
-
         // Left
         if (column > 0) {
             findAndPrintAllPaths(currentPath + 'L', maze, row, column - 1);
         }
-
         // Mark the current cell as unvisited before backtracking
         maze[row][column] = true;
         //this line is where the function will be over

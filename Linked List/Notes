@@ -1,0 +1,7 @@
+Single LL
+whenever we have to add a new node in middle List
+1. add new node aani jyala pan attach karach aahe tyacha pahile address dyacha
+eg : 1 -> 2 -> 10 -> 45 -> 20 -> null/tail
+    new node - 100 , have to add in 2nd index
+    ter pahile 100 madhe 45 cha address takel
+    nanter 10 aani 45 chi link break karel aani 10 madhe new node cha address takel
